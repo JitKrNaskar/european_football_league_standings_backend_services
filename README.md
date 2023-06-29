@@ -24,6 +24,14 @@ European football enjoys immense popularity due to various factors. Its historic
 
 ![Screenshot](api_testing_screenshot_3.gif)
 
+### Scenario-4:
+
+![Screenshot](api_testing_screenshot_4.gif)
+
+### Scenario-5:
+
+![Screenshot](api_testing_screenshot_5.gif)
+
 <hr>
 
 
