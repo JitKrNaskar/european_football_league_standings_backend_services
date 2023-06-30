@@ -35,7 +35,7 @@ European football enjoys immense popularity due to various factors. Its historic
 <hr>
 
 
-The five European football leagues are the EPL, La Liga, Serie A, Ligue 1, and Bundesliga, which have league standings data from the years 2012 to 2022 present in the database.
+The five European football leagues are the EPL, Laliga, Serie-A, Ligue-1, and Bundesliga, which have league standings data from the years 2012 to 2022 present in the database.
 
 ## Summary:
 
