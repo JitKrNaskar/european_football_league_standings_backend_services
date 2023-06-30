@@ -41,5 +41,5 @@ The five European football leagues are the EPL, Laliga, Serie-A, Ligue-1, and Bu
 
 <ul>
   <li>More European football leagues are played but only the top 5 league standings are in the database.</li>
-  <li>From 2012 to 2022 league standings data are present in the database. </li>
+  <li>The database presents data From the 2012 to 2022 league standings data. </li>
 </ul>
